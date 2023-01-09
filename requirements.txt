@@ -1,0 +1,6 @@
+pytz~=2022.6
+numpy~=1.23.4
+setuptools==65.5.1
+darkdetect~=0.7.1
+customtkinter~=4.6.3
+Pillow~=9.3.0
